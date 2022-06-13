@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mickh/code/SMartelEds/TaxiFareModel/mlruns/1/3417f81b37fb4890af1136698393477b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 3417f81b37fb4890af1136698393477b
+run_uuid: 3417f81b37fb4890af1136698393477b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654632396415
+status: 1
+tags: []
+user_id: unknown
